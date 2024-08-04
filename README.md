@@ -23,6 +23,6 @@ BMI is Body Mass Index, and we usually use it to measure if our weight is within
 ![bmi](https://user-images.githubusercontent.com/84308096/152272549-5fad579a-641b-466a-85ce-dca61eb7cb41.png)
 3. show `Healthy` or `Not Healthy` in an alert
 
-    
+
 
 
